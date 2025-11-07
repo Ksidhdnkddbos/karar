@@ -4,5 +4,5 @@ from YMusic.misc import sudo
 
 sudo()
 
-app = YMusicBot
-call = YMusicUser
+app = YMusicBot()
+call = YMusicUser()
