@@ -1,7 +1,7 @@
 pyrofork
 git+https://github.com/pytgcalls/pytgcalls
 yt-dlp
-Pyrogram==2.0.106
+pyrogram==1.4.16
 tgcrypto
 youtube-search-python
 python-dotenv
